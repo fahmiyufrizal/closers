@@ -1,4 +1,4 @@
-# closers
+# Closers
 Closers Global NetCafe Launcher - Dibuat dengan Python
 
 ## English please?
